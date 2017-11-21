@@ -766,7 +766,7 @@
 		#bg {
 			background-size: 1500px auto;
 			width: 4500px;
-		} }
+		}
 
 /* Normal */
 
@@ -848,7 +848,7 @@
 		#bg {
 			background-size: 750px auto;
 			width: 2250px;
-		} }
+		}
 
 /* Mobile */
 
@@ -956,7 +956,7 @@
 
 			#header nav a:active {
 				font-size: 1em;
-			} }
+			}
 
 /* Mobile (Portrait) */
 
@@ -1038,4 +1038,4 @@
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		}
